@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # \<cat-el\>
 
 element to show cats
@@ -19,3 +20,7 @@ $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+=======
+# cat-element
+Demo custom element cat-element
+>>>>>>> 69de344cc43cc51669559508405eb7d1e17ed987
